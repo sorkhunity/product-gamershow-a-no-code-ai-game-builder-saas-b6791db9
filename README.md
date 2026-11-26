@@ -1,2 +1,8 @@
-# product-gamershow-a-no-code-ai-game-builder-saas-b6791db9
-Product: GamerShow, a no-code AI game builder SaaS — built with Sorkh.app
+# Product: GamerShow, a no-code AI game builder SaaS
+
+Built with Sorkh.app Make.
+
+```
+npm install
+npm run dev
+```
